@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xrush" alt="0xrush" /></a> </p>
 
-- 🌱 I’m currently learning **php, laravel**
 
 - 📫 How to reach me **eias742@gmail.com**
 
