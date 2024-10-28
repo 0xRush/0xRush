@@ -38,4 +38,4 @@ The quieter you become, the more you are able to hear.
 
 ---
 
-![snake gif](https://github.com/0xRush/0xRush/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/0xRush/0xRush/blob/output/github-snake.svg)
