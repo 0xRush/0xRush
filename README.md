@@ -14,10 +14,18 @@ The quieter you become, the more you are able to hear.
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0xRush&theme=aura&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xRush&theme=aura&hide_border=false)
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=0xRush&limit=5&theme=aura&combine_all_yearly_contributions=true)
+
+</div>
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xRush&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0xRush&limit=5&theme=aura&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
@@ -25,6 +33,4 @@ The quieter you become, the more you are able to hear.
 
 ---
 
-### 🐍 Watch My Contributions Snake Down:
 ![snake gif](https://github.com/0xRush/0xRush/blob/output/github-contribution-grid-snake.svg)
-
