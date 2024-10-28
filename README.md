@@ -39,5 +39,3 @@ The quieter you become, the more you are able to hear.
 ---
 
 ![snake gif](https://github.com/0xRush/0xRush/blob/output/github-snake-dark.svg)
-
-![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=0xRush&theme=github-dark&hide_border=true)
